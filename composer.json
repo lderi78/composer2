@@ -1,0 +1,16 @@
+{
+    "name": "wild/app",
+    "description": "Quete Composer 2",
+    "autoload": {
+        "psr-4": {
+            "Wild\\App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lionel D.",
+            "email": "lionel.deri@gmail.com"
+        }
+    ],
+    "require": {}
+}
